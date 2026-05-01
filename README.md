@@ -10,7 +10,7 @@ A fully local Retrieval-Augmented Generation pipeline that ingests multi-documen
 
 <!-- Replace the placeholder below with your actual video embed or link -->
 <p align="center">
-  <a href="[YOUR_VIDEO_LINK_HERE](https://www.loom.com/share/eb64fbd3c5ee4a88854d101c6a609bf3)">
+  <a href="(https://www.loom.com/share/eb64fbd3c5ee4a88854d101c6a609bf3)">
     <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video"/>
   </a>
 </p>
