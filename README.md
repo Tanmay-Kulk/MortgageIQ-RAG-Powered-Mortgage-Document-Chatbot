@@ -1,35 +1,18 @@
-# MortgageIQ-RAG-Powered-Mortgage-Document-Chatbot
-
 # 🏠 MortgageIQ — RAG-Powered Mortgage Document Chatbot (v2.1)
 
 A fully local Retrieval-Augmented Generation pipeline that ingests multi-document mortgage PDFs, intelligently segments and classifies each document, preserves tabular structure, and answers natural-language questions with grounded, citation-backed responses — all without a single API key.
 
 ---
 
-## 📽️ Demo
+## Demo
 
-<!-- Replace the placeholder below with your actual video embed or link -->
-<p align="center">
-  <a href="(https://www.loom.com/share/eb64fbd3c5ee4a88854d101c6a609bf3)">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video"/>
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge&logo=loom)](https://www.loom.com/share/eb64fbd3c5ee4a88854d101c6a609bf3)
+
+<div align="center">
+  <a href="https://www.loom.com/share/eb64fbd3c5ee4a88854d101c6a609bf3">
+    <img src="https://cdn.loom.com/sessions/thumbnails/eb64fbd3c5ee4a88854d101c6a609bf3-with-play.gif" alt="MortgageIQ Demo" width="700"/>
   </a>
-</p>
-
-<!-- OPTION A: If hosting on YouTube, uncomment and use this embed: -->
-<!-- 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="MortgageIQ Demo" width="700"/>
-  </a>
-</p>
--->
-
-<!-- OPTION B: If hosting a GIF preview instead: -->
-<!-- 
-<p align="center">
-  <img src="assets/demo.gif" alt="MortgageIQ Demo" width="700"/>
-</p>
--->
+</div>
 
 ---
 
